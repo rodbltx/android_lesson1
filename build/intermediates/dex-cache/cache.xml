@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_5420ecece173ed9cd996f6a15dd87c347e373e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_907d3afc44565bc71a59b8b1064218207870b012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_a528c447d115989360fc892492b2ae1727f1c6cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_3fc5d1a3c7aa5ad8b381e7273e3ee83c40c19bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_eb152d66f408b3a178e5b0603aa8bb0469d4f10b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_613c39425c100cad818aac560f68eeeb81017a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dab44c792f104cf6dbb43225fdcb4193b813884a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_9585f907fcc571cde8c804175db541dcf9115f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b8a6780fce9b07abfe1a2c8a7445bdb7f54dbf61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_faadbb50551eff1aadbcdf1151aeaf483355d4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_da2f6a11f75e60218c3750bce4584f7b3a2e3052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_4e56a70f997a97caa79a05b31949282b8700e224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_8c4f3daa7b03d01a21a1e398ed8e1c44ffcc01d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_dfa1b329db67718cf642db678d46dd7cacef9d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lucasmanrique/Documents/FISAndroid/mbanking-client/Tarea1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_8a7b81f893a59172f900bd4a0c46dfe6bdb5cbd7.jar" />
+    </item>
+
+</items>

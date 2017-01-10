@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_actividad_operaciones"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.belatrixsf.tarea1.ActividadOperaciones">
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editTextPrimerNumero"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:text=""
+        android:ems="10"
+        android:id="@+id/editTextOperador"
+        android:layout_below="@+id/editTextPrimerNumero"
+        android:layout_alignLeft="@+id/editTextPrimerNumero"
+        android:layout_alignStart="@+id/editTextPrimerNumero"
+        android:layout_marginTop="1dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editTextSegundoNumero"
+        android:layout_below="@+id/editTextOperador"
+        android:layout_alignLeft="@+id/editTextOperador"
+        android:layout_alignStart="@+id/editTextOperador"
+        android:layout_marginTop="1dp" />
+
+    <Button
+        android:text="Calcular..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextSegundoNumero"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:onClick="calcularNumeros"
+        android:id="@+id/buttonCalcular" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:ems="10"
+        android:layout_below="@+id/buttonCalcular"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1dp"
+        android:id="@+id/editTextResultado" />
+
+    <Button
+        android:text="Crea Lineas..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/editTextResultado"
+        android:layout_alignEnd="@+id/editTextResultado"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/buttonLineas"/>
+
+
+</RelativeLayout>
